@@ -1,0 +1,39 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+    width: ;
+    width: auto;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+    width: auto;
+}
+
+
+.button {
+  padding: 5px 10px 5px 10px;
+  color: #FFF;
+  background-color: #32CD32;
+  font-size: 12px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  width: 8%;
+  border: 1px solid #3ac162;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin-bottom: 10px;
+}
+
+.dnone
+{display: none;}
+
